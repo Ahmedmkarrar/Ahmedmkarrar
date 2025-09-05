@@ -4,7 +4,7 @@
 
 **Computer Science Student | Software Engineer | Founder**
 
-📧 ahmedkarrar432@gmail.com | 🇺🇸 U.S. Citizen
+📧 ahmedkarrar432@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmedmkarrar) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Ahmedmkarrar)
 
@@ -37,7 +37,8 @@
 **FireThumbnails** - *React Native, Firebase*
 - An software that helps you generate viral youtube thumbnials with Ai
 - Examples of Youtube Thumbnails 
-![ ]()
+![An example of a thumbnail created](assets/SQUID%20GAMES.png)
+![Another exampleof a thumbnail created](assets/Thumbnail%20Design%20Brief%20Jun%2026%202025%20(1).png)
 
 **AI Content Automation** - *OpenAI, Social Media APIs*
 - Automated content generation system publishing 2 videos daily across platforms
